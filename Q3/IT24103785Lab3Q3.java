@@ -3,7 +3,7 @@ public class IT24103785Lab3Q3 {
 
     public static void main(String[] args) {
 
-        int amount,amount1,amount2,amount3,amount4,amount5,amount6,amount7,amount8,amount9,amount10,notes1,notes2,notes3,notes4,notes5,notes6,notes7,coins1,coins2,coins3,coins4;//Notes,Coins
+        int amount,notes1,notes2,notes3,notes4,notes5,notes6,notes7,coins1,coins2,coins3,coins4;//Notes,Coins,amount
 
         Scanner input = new Scanner(System.in);
         
